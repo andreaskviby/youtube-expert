@@ -1,0 +1,8 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Optional: For YouTube API integration
+# google-api-python-client>=2.0.0
+# google-auth-oauthlib>=1.0.0
+# google-auth-httplib2>=0.1.0

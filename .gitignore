@@ -1,0 +1,100 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+ENV/
+
+# Environment
+.env
+.env.local
+*.pem
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+SOURCES/
+SOURCES_compressed/
+episode_frames/
+thumbnails_*/
+!thumbnails_master/.gitkeep
+
+# Large files
+*.csv
+!example_data.csv
+
+# Secrets
+client_secret_*.json
+*.credentials
+token.json
+
+# Cloudflare
+.wrangler/
+
+# Node (if any)
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Claude Code
+.claude/
+
+# Basecamp
+.basecamp/
+
+# Disabled scripts
+DISABLED_EXPENSIVE_SCRIPTS/
+
+# Video rebuild working files
+EP28_REBUILD/source/
+EP28_REBUILD/clips*/
+EP28_REBUILD/output/
+EP28_REBUILD/keyframes/
+EP36_REBUILD/source/
+EP36_REBUILD/clips*/
+EP36_REBUILD/output/
+EP36_REBUILD/shorts/*.mp4
+
+# Additional secrets
+youtube_api/
+*.pickle
+create_thumbnail_v4.py.DISABLED
