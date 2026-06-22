@@ -2,5 +2,6 @@ name = "adventure-in-sicily"
 compatibility_date = "2024-01-01"
 pages_build_output_dir = "public"
 
-[build]
-command = "python3 ../build.py"
+# Note: Cloudflare Pages does not support a [build] section in wrangler.toml.
+# The GitHub Actions workflow runs `python3 adventure-website/build.py` before
+# `wrangler pages deploy`, so no in-config build command is needed here.
