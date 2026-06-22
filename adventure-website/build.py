@@ -238,15 +238,16 @@ def generate_sitemap(data):
         ('https://adventureinsicily.com/sicily-guide/stories/', '0.7', 'weekly'),
     ]
 
-    # Auto-discover individual beach detail pages (each is its own indexable URL)
-    beaches_dir = PUBLIC_DIR / "sicily-guide" / "beaches"
-    if beaches_dir.is_dir():
-        for child in sorted(beaches_dir.iterdir()):
-            if child.is_dir() and (child / "index.html").exists():
-                main_pages.append((
-                    f'https://adventureinsicily.com/sicily-guide/beaches/{child.name}/',
-                    '0.6', 'monthly'
-                ))
+    # Auto-discover individual guide detail pages (each is its own indexable URL)
+    for section in ("beaches", "restaurants", "hotels"):
+        section_dir = PUBLIC_DIR / "sicily-guide" / section
+        if section_dir.is_dir():
+            for child in sorted(section_dir.iterdir()):
+                if child.is_dir() and (child / "index.html").exists():
+                    main_pages.append((
+                        f'https://adventureinsicily.com/sicily-guide/{section}/{child.name}/',
+                        '0.6', 'monthly'
+                    ))
 
     for url, priority, freq in main_pages:
         sitemap += f'''  <url>
