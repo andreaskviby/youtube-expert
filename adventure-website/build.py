@@ -9,8 +9,11 @@ import re
 import os
 from pathlib import Path
 
-SRC_DIR = Path("adventure-website/src")
-PUBLIC_DIR = Path("adventure-website/public")
+# Resolve paths relative to this script's location so the build works
+# regardless of the current working directory (repo root or adventure-website/).
+_BASE_DIR = Path(__file__).resolve().parent
+SRC_DIR = _BASE_DIR / "src"
+PUBLIC_DIR = _BASE_DIR / "public"
 
 def create_slug(title):
     """Create URL-friendly slug from title"""
