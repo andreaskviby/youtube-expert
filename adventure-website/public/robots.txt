@@ -1,4 +1,14 @@
+# Adventure in Sicily - Robots.txt
 User-agent: *
 Allow: /
 
+# Sitemaps
 Sitemap: https://adventureinsicily.com/sitemap.xml
+Sitemap: https://adventureinsicily.com/sitemap-videos.xml
+
+# Block low-value pages from crawling
+Disallow: /api/
+Disallow: /*.json$
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1

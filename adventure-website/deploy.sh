@@ -1,34 +1,33 @@
 #!/bin/bash
-# Deploy Adventure in Sicily website to Cloudflare Pages
+# Adventure in Sicily - Local Deploy Script
+# Usage: ./deploy.sh
+
+set -e
 
 echo "=========================================="
-echo "Deploying Adventure in Sicily"
+echo "Building Adventure in Sicily Website"
 echo "=========================================="
 
-# Check if wrangler is installed
-if ! command -v wrangler &> /dev/null; then
-    echo "Installing Wrangler CLI..."
-    npm install -g wrangler
+cd "$(dirname "$0")/.."
+
+# Activate virtual environment if exists
+if [ -d "venv" ]; then
+    source venv/bin/activate
 fi
 
-# Build the site first
-echo "Building site..."
-cd "$(dirname "$0")"
-python3 ../build.py 2>/dev/null || python build.py
-
-# Deploy to Cloudflare Pages
-echo "Deploying to Cloudflare Pages..."
-wrangler pages deploy public --project-name=adventure-in-sicily
+# Run build
+python3 adventure-website/build.py
 
 echo ""
 echo "=========================================="
-echo "Deployment complete!"
+echo "Deploying to Cloudflare Pages"
 echo "=========================================="
+
+cd adventure-website
+npx wrangler pages deploy public --project-name=adventure-in-sicily
+
 echo ""
-echo "Next steps:"
-echo "1. Go to Cloudflare Dashboard > Pages > adventure-in-sicily"
-echo "2. Add custom domains:"
-echo "   - adventureinsicily.com"
-echo "   - www.adventureinsicily.com"
-echo "3. Set up redirects for other domains (see SETUP.md)"
-echo ""
+echo "=========================================="
+echo "Deployment Complete!"
+echo "=========================================="
+echo "Live at: https://adventureinsicily.com"

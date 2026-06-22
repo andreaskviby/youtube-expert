@@ -1,0 +1,37 @@
+name: Deploy Adventure in Sicily Website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'adventure-website/**'
+      - '.github/workflows/deploy-website.yml'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    name: Build and Deploy to Cloudflare Pages
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run build script
+        working-directory: ./adventure-website
+        run: |
+          python3 build.py
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=adventure-in-sicily
+          workingDirectory: ./adventure-website

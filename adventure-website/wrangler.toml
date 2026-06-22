@@ -1,6 +1,6 @@
-# Cloudflare Pages configuration
 name = "adventure-in-sicily"
 compatibility_date = "2024-01-01"
+pages_build_output_dir = "public"
 
-[site]
-bucket = "./public"
+[build]
+command = "python3 ../build.py"
