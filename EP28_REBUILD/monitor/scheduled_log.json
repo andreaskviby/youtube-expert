@@ -223,7 +223,1152 @@
         "comments": 0
       },
       "analytics": null
+    },
+    {
+      "timestamp": "2026-06-10T17:00:54.722302",
+      "main": {
+        "views": 62,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 504,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": null
+    },
+    {
+      "timestamp": "2026-06-10T19:00:55.640199",
+      "main": {
+        "views": 62,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 513,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": null
+    },
+    {
+      "timestamp": "2026-06-10T21:00:56.511457",
+      "main": {
+        "views": 62,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 513,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-10T23:00:57.388132",
+      "main": {
+        "views": 62,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 517,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T01:00:58.146166",
+      "main": {
+        "views": 62,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 518,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T03:00:59.027841",
+      "main": {
+        "views": 65,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 519,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T05:00:59.942168",
+      "main": {
+        "views": 66,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 518,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T07:01:00.720591",
+      "main": {
+        "views": 67,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 520,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T09:01:01.593071",
+      "main": {
+        "views": 68,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 522,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T11:01:02.547877",
+      "main": {
+        "views": 68,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 522,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T13:01:03.359678",
+      "main": {
+        "views": 70,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 522,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T15:01:04.135798",
+      "main": {
+        "views": 70,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 522,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T17:01:04.900640",
+      "main": {
+        "views": 76,
+        "likes": 5,
+        "comments": 1
+      },
+      "short": {
+        "views": 523,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T19:01:05.844450",
+      "main": {
+        "views": 77,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 523,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 49,
+        "avg_view_duration": 109,
+        "retention_pct": 58.050000000000004
+      }
+    },
+    {
+      "timestamp": "2026-06-11T21:01:06.650141",
+      "main": {
+        "views": 77,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 523,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-11T23:01:07.358732",
+      "main": {
+        "views": 79,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 523,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T01:01:08.164767",
+      "main": {
+        "views": 81,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 526,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T03:01:08.673936",
+      "main": {
+        "views": 81,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 526,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T05:01:09.425038",
+      "main": {
+        "views": 83,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 527,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T07:01:10.183852",
+      "main": {
+        "views": 83,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 527,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T09:01:10.929341",
+      "main": {
+        "views": 83,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 527,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T11:01:11.668144",
+      "main": {
+        "views": 83,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 527,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T13:01:12.456543",
+      "main": {
+        "views": 83,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 527,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T15:01:15.193566",
+      "main": {
+        "views": 83,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 527,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T17:01:16.075634",
+      "main": {
+        "views": 85,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 527,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T19:01:16.966390",
+      "main": {
+        "views": 85,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 86,
+        "avg_view_duration": 86,
+        "retention_pct": 45.95
+      }
+    },
+    {
+      "timestamp": "2026-06-12T21:01:17.790646",
+      "main": {
+        "views": 85,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-12T23:01:18.673774",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T01:01:19.491074",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T03:01:20.222268",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T05:01:21.211020",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T07:01:21.931933",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T09:01:22.753338",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T11:01:23.619608",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T13:01:24.393480",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T15:01:25.199259",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T17:01:26.014083",
+      "main": {
+        "views": 87,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T19:01:26.855241",
+      "main": {
+        "views": 88,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 98,
+        "avg_view_duration": 84,
+        "retention_pct": 44.48
+      }
+    },
+    {
+      "timestamp": "2026-06-13T21:01:27.724537",
+      "main": {
+        "views": 88,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-13T23:01:28.659863",
+      "main": {
+        "views": 88,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T01:01:29.540018",
+      "main": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T03:01:30.316289",
+      "main": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T05:01:31.178993",
+      "main": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T07:01:31.950386",
+      "main": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T09:01:32.653883",
+      "main": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T11:01:33.482745",
+      "main": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T13:01:34.245725",
+      "main": {
+        "views": 90,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T15:01:34.991340",
+      "main": {
+        "views": 91,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T17:01:35.960896",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T19:01:36.796105",
+      "main": {
+        "views": 93,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 113,
+        "avg_view_duration": 81,
+        "retention_pct": 43.28
+      }
+    },
+    {
+      "timestamp": "2026-06-14T21:01:37.778985",
+      "main": {
+        "views": 94,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-14T23:01:38.600890",
+      "main": {
+        "views": 94,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T01:01:39.433205",
+      "main": {
+        "views": 94,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T03:01:40.223455",
+      "main": {
+        "views": 94,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T05:01:41.038390",
+      "main": {
+        "views": 94,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T07:01:41.762050",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T09:01:42.554505",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T11:01:43.299772",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T13:01:44.179686",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 530,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T15:01:44.970785",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 531,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T17:01:45.844459",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 531,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T19:01:47.057079",
+      "main": {
+        "views": 92,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 531,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 118,
+        "avg_view_duration": 81,
+        "retention_pct": 43.15
+      }
+    },
+    {
+      "timestamp": "2026-06-15T21:01:47.786325",
+      "main": {
+        "views": 93,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 531,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 120,
+        "avg_view_duration": 80,
+        "retention_pct": 42.51
+      }
+    },
+    {
+      "timestamp": "2026-06-15T23:01:48.710372",
+      "main": {
+        "views": 93,
+        "likes": 6,
+        "comments": 1
+      },
+      "short": {
+        "views": 531,
+        "likes": 4,
+        "comments": 0
+      },
+      "analytics": {
+        "watch_minutes": 120,
+        "avg_view_duration": 80,
+        "retention_pct": 42.51
+      }
     }
   ],
-  "retention_available": false
+  "retention_available": true,
+  "retention_available_at": "2026-06-10T21:00:56.511457"
 }
